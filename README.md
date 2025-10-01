@@ -14,7 +14,7 @@ The core goal is to analyze the content library—the mix of movies, TV shows, g
 
 This analysis translates data trends into direct business advice:
 
-| What We Found (The Trend) | What It Means for Netflix (Business Insight) | What Netflix Should Do (Strategic Recommendation) |
+| What I Found (The Trend) | What It Means for Netflix (Business Insight) | What Netflix Should Do (Strategic Recommendation) |
 | :--- | :--- | :--- |
 | The addition of **TV Shows** has exploded since 2017, often overtaking Movies. | TV Shows are the engine of **subscriber retention** (keeping users subscribed longer) due to binge-watching habits. | Shift major budgets toward **Original TV Show production** and renewing popular series, as this secures long-term revenue. |
 | The catalog is dominated by safe, high-volume genres like **Dramas** and **Comedies**. | These popular categories are now saturated and offer less competitive advantage. | Focus investment on high-quality, exclusive content in **niche** areas (e.g., specific Sci-Fi, prestige True Crime) to attract dedicated fanbases. |
