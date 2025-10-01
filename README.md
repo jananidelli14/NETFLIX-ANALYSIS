@@ -1,3 +1,5 @@
+# VOIS_AICTE_Oct2025_MajorProject_JANANI D
+
 # 🍿 Netflix Content Trend Analysis: Unlocking Strategic Decisions
 
 This project goes beyond simple numbers to understand **how Netflix's content strategy has changed over the years**. By looking closely at the content added between 2008 and 2021, this analysis identifies key trends and provides actionable advice to help Netflix stay ahead of competitors.
